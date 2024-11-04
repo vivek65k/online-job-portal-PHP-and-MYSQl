@@ -46,7 +46,7 @@ Before running this project, make sure you have the following:
 
 Click the link below to download the **Online Job Portal** project files:
 
-[**Download Online Job Portal Project**](https://drive.google.com/file/d/1M36Yzz3j2EwLpVKdvPUfh7u1zXQg5jyj/view?usp=drive_link)
+[**Download Online Job Portal Project**](https://learncodezone.com/download-the-online-job-portal-project-php-and-mysql/)
 
 ## Setup Guide
 
